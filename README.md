@@ -8,3 +8,4 @@ This is unfortunately a centralized alternative for email with authentication an
 </br>
 <H4> Email encryption</h4>
 
+Emails aren't encrypted! this is because it's almost impossible to encryption emails and the existing solutions aren't giving us any privacy more
